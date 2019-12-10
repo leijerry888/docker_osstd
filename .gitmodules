@@ -1,0 +1,3 @@
+[submodule "openstudio-standards"]
+	path = openstudio-standards
+	url = https://github.com/NREL/openstudio-standards
