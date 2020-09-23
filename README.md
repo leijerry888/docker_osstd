@@ -1,2 +1,2 @@
-# docker_osstd_
+# docker_osstd
 A docker wrap for NREL/openstudio-standards repo
